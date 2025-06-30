@@ -8,7 +8,7 @@ from keras import layers
 from keras import models
 from keras import optimizers
 from keras import callbacks
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.preprocessing.image import ImageDataGenerator #type:ignore
 import keras
 keras.__version__
 import tensorflow as tf

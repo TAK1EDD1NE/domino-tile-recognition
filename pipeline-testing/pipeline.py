@@ -343,7 +343,7 @@ def main():
 
 if __name__ == "__main__":
     # Example usage when running as script
-    # python domino_pipeline.py -i image.jpg -c cnn_model.h5 -o result.jpg
+    # python pipeline.py -i image.jpg -c best_model_1000_epochs.keras -o result.jpg
     
     # Or use directly as a class:
     # pipeline = DominoPipeline("best.pt", "cnn_model.h5")

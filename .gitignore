@@ -2,5 +2,8 @@
 /archive2
 /data
 /best_model.keras
-/Double Six Domino.v8i.yolov5pytorch
+/Double Six Domino.v8i.yolov5pytorch/domino_detection
+/Double Six Domino.v8i.yolov5pytorch/runs
+/Double Six Domino.v8i.yolov5pytorch/test_results
+/Double Six Domino.v8i.yolov5pytorch/train
 /best_domino_model.h5

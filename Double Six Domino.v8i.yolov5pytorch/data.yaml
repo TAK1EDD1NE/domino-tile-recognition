@@ -1,0 +1,13 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 1
+names: ['domino']
+
+roboflow:
+  workspace: moaz-taha-9jg90
+  project: double-six-domino
+  version: 8
+  license: Public Domain
+  url: https://universe.roboflow.com/moaz-taha-9jg90/double-six-domino/dataset/8

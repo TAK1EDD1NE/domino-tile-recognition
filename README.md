@@ -49,8 +49,8 @@ Detection Distribution:
 - Images with 6-10 detections: 0
 - Images with >10 detections: 36
 
-![object detection Example](/confidence_distribution.py)
-![object detection Example](/detection_analysis.py)
+![object detection Example](/confidence_distribution.png)
+![object detection Example](/detection_analysis.png)
 
 to run the cnn model:
 `

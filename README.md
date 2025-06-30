@@ -49,8 +49,8 @@ Detection Distribution:
 - Images with 6-10 detections: 0
 - Images with >10 detections: 36
 
-![object detection Example](/Double%20Six%20Domino.v8i.yolov5pytorch/testing-object-detection.py)
-![object detection Example](/Double%20Six%20Domino.v8i.yolov5pytorch/train-object-detection-model.py)
+![object detection Example](/testing-object-detection.py)
+![object detection Example](/train-object-detection-model.py)
 
 to run the cnn model:
 `

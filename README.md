@@ -70,7 +70,8 @@ cd your-repo
 cd pipeline
 python pipeline.py -i image.jpg -c best_model_1000_epochs.keras -o result.jpg
 `
-⚠️ Known Issues
+
+# ⚠️ Known Issues
 The CNN model currently shows low accuracy on real-world images, especially under variable lighting or rotation.
 
 It performs better on clean, synthetic or preprocessed tile images.

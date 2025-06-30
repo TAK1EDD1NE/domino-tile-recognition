@@ -1,0 +1,46 @@
+DOMINO TILE CNN MODEL TEST RESULTS
+==================================================
+
+Overall Performance:
+Test Accuracy: 0.9375 (93.75%)
+Test Loss: 1.5467
+Total Images Tested: 2798
+
+Per-Class Performance:
+------------------------------
+   0x0: Precision=1.000, Recall=1.000, F1=1.000, Support=100.0
+   1x0: Precision=0.962, Recall=1.000, F1=0.980, Support=100.0
+   1x1: Precision=0.925, Recall=0.990, F1=0.957, Support=100.0
+   2x0: Precision=1.000, Recall=0.950, F1=0.974, Support=100.0
+   2x1: Precision=0.910, Recall=0.910, F1=0.910, Support=100.0
+   2x2: Precision=0.989, Recall=0.940, F1=0.964, Support=100.0
+   3x0: Precision=1.000, Recall=0.950, F1=0.974, Support=100.0
+   3x1: Precision=0.958, Recall=0.920, F1=0.939, Support=100.0
+   3x2: Precision=0.970, Recall=0.960, F1=0.965, Support=100.0
+   3x3: Precision=1.000, Recall=0.920, F1=0.958, Support=100.0
+   4x0: Precision=0.962, Recall=1.000, F1=0.980, Support=100.0
+   4x1: Precision=0.921, Recall=0.930, F1=0.925, Support=100.0
+   4x2: Precision=0.989, Recall=0.940, F1=0.964, Support=100.0
+   4x3: Precision=0.951, Recall=0.970, F1=0.960, Support=100.0
+   4x4: Precision=0.989, Recall=0.900, F1=0.942, Support=100.0
+   5x0: Precision=1.000, Recall=0.909, F1=0.952, Support=99.0
+   5x1: Precision=0.795, Recall=0.970, F1=0.874, Support=100.0
+   5x2: Precision=0.979, Recall=0.920, F1=0.948, Support=100.0
+   5x3: Precision=0.955, Recall=0.840, F1=0.894, Support=100.0
+   5x4: Precision=0.986, Recall=0.730, F1=0.839, Support=100.0
+   5x5: Precision=0.989, Recall=0.880, F1=0.931, Support=100.0
+   6x0: Precision=0.847, Recall=1.000, F1=0.917, Support=100.0
+   6x1: Precision=0.790, Recall=0.980, F1=0.875, Support=100.0
+   6x2: Precision=1.000, Recall=0.980, F1=0.990, Support=100.0
+   6x3: Precision=0.941, Recall=0.960, F1=0.950, Support=100.0
+   6x4: Precision=0.893, Recall=0.920, F1=0.906, Support=100.0
+   6x5: Precision=0.789, Recall=0.900, F1=0.841, Support=100.0
+   6x6: Precision=0.915, Recall=0.980, F1=0.946, Support=99.0
+
+Summary Statistics:
+Mean Precision: 0.943
+Mean Recall: 0.937
+Mean F1-Score: 0.938
+
+Best performing class: 0x0 (F1=1.000)
+Worst performing class: 5x4 (F1=0.839)

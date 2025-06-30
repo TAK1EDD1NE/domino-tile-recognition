@@ -13,8 +13,8 @@ This project implements a computer vision pipeline that detects and classifies d
 📊 Model Visualization
 the cnn model have an accuracy of 97%
 
-domino_confusion_matrix.png
 
+![Prediction Example](visuals/domino_confusion_matrix.png)
 📌 Recommended: add screenshots showing the detection + classification results here.
 
 🖥️ Running the Project
